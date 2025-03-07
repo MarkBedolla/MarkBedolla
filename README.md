@@ -22,7 +22,7 @@
   <a href="mailto:Markbedolla37@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-81C784?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[www.linkedin.com/in/markbedolla](https://www.linkedin.com/in/markbedolla/)">
+  <a href="https://www.linkedin.com/in/markbedolla/">
     <img src="https://img.shields.io/badge/LinkedIn-64B5F6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
